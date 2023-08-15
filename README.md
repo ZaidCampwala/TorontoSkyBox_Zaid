@@ -7,7 +7,7 @@ The code is written in C++ language and the IDE I used was Visual Studio 2022.
 
 There are five scenes, each scene is a different project.
 
-Scene1: Phonge Shading Model, Press F1 key on your keyboard.
+#Scene1: Phonge Shading Model, Press F1 key on your keyboard.
 
 Scene2: Trackball, Press F2 key on your keyboard.
 
